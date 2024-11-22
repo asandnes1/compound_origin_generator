@@ -5,12 +5,8 @@ dash-bootstrap-components==1.6.0
 dash-ag-grid==31.2.0
 rdkit==2024.03.5
 pubchempy==1.0.4
-# cx_oracle==8.3.0
-# oracledb==2.3.0
 gunicorn
 python-dotenv==1.0.1 
 google-ai-generativelanguage==0.6.9
 google-generativeai==0.8.1
-pydeseq2==0.4.12
-polars==1.12.0
 
