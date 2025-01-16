@@ -8,6 +8,7 @@ Use the link below to try this web app for yourself:
 https://asandnes-dash-portfolio.onrender.com/projects
 
 The page may render slowly, give it some time to load, and have fun reading the origin stories of your favorite molecules! :)
+Prompt example: glucose insulin sucrose
 
 
 Components:
