@@ -1,6 +1,6 @@
 # Compound Origin Generator
 
-I want to learn how to implement AI tools in Python applications. Therefore, this project aims to use AI to generate an origin story about a molecule whose data is extracted from Pubchem using PubChemPy.
+I wanted to learn how to implement AI tools in Python applications for pharmaceutical research. Therefore, I started this project to use AI to generate an origin story about a molecule whose data is extracted from Pubchem using PubChemPy.
 
 Components:
 - Input field
@@ -10,7 +10,7 @@ Components:
 - Textbox
 
 By giving one or a series of strings representing molecule names (eg., glucose insulin) as input, PubChemPy fetches relevant data from the database of Pubchem. The extractable data can be chosen in the dropdown.
-The chemical structure is drawn by RDKit for all prompted molecules, and the Gemini 1.5 Flash AI model generates an origin story based on he molecule name in a static prompt.
+The chemical structure is drawn by RDKit for all prompted molecules, and the Gemini 1.5 Flash AI model generates an origin story based on the molecule name in a static prompt.
 
 Technologies used:
 
