@@ -3,7 +3,7 @@
 I wanted to learn how to implement AI tools in Python applications for pharmaceutical research.
 Therefore, I started this project to use AI to generate an origin story about a molecule whose data is extracted from Pubchem using PubChemPy.
 
-Use the link below to try this web app for yourself:
+Use the link below to try this web app for yourself (does not open in new tab):
 
 https://asandnes-dash-portfolio.onrender.com/projects
 
