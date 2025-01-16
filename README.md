@@ -1,6 +1,14 @@
 # Compound Origin Generator
 
-I wanted to learn how to implement AI tools in Python applications for pharmaceutical research. Therefore, I started this project to use AI to generate an origin story about a molecule whose data is extracted from Pubchem using PubChemPy.
+I wanted to learn how to implement AI tools in Python applications for pharmaceutical research.
+Therefore, I started this project to use AI to generate an origin story about a molecule whose data is extracted from Pubchem using PubChemPy.
+
+Use the link below to try this web app for yourself:
+
+https://asandnes-dash-portfolio.onrender.com/projects
+
+The page may render slowly, give it some time to load, and have fun reading the origin stories of your favorite molecules! :)
+
 
 Components:
 - Input field
@@ -22,3 +30,5 @@ Technologies used:
 - Gemini 1.5 Flash
 
 This project offers a practical solution for exploring chemical compounds while also adding educational and storytelling elements to enhance the user experience.
+
+
